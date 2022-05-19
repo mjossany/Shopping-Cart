@@ -6,7 +6,7 @@ export interface Product {
   amount: number;
 }
 
-export interface Stock {
-  id: number;
-  amount: number;
-}
+// export interface Stock {
+//   id: number;
+//   amount: number;
+// }
